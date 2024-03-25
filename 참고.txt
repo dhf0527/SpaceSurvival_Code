@@ -1,0 +1,8 @@
+포트폴리오 ppt 페이지 별 스크립트
+-------------------------------------
+pg.3 -> LobbyUI_Animated
+pg.4 -> Toggle_Main
+pg.5 -> Toggle_Setting
+pg.8 -> InventoryManager
+pg.9,11 -> InventoryCell
+pg.10 -> ScrollView_Combat
